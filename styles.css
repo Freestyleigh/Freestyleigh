@@ -50,7 +50,7 @@ footer {
 }
 
 .player-card {
-  background: grey;
+  background-color: grey;
   color: rgb(244, 0, 0, 1);
   padding: 1.3rem;
   margin: 1.2rem;
