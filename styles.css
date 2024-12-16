@@ -55,6 +55,7 @@ footer {
   margin: 1.2rem;
   width: 300px;
   border-radius: 15px;
+  opacity: 0.3
 }
 
 @media (max-width: 768px) {
