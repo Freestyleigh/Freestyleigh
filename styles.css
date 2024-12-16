@@ -50,12 +50,11 @@ footer {
 }
 
 .player-card {
-  background-color: var(--light-grey);
+  background: rgb(100, 0, 240, 0.3);
   padding: 1.3rem;
   margin: 1.2rem;
   width: 300px;
   border-radius: 15px;
-  opacity: 0.3
 }
 
 @media (max-width: 768px) {
